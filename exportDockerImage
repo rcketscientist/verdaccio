@@ -1,0 +1,2 @@
+docker build -t mino/verdaccio . --no-cache
+docker save mino/verdaccio | gzip > verdaccio.tgz

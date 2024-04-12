@@ -1,4 +1,5 @@
 *.log*
+verdaccio.tgz
 verdaccio-*.tgz
 .DS_Store
 build/

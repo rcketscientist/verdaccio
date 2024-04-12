@@ -64,6 +64,8 @@ auth:
 # https://verdaccio.org/docs/configuration#uplinks
 # A list of other known repositories we can talk to
 uplinks:
+  hii:
+    url: http://zeus:8082/repository/npm-minotaur/
   npmjs:
     url: https://registry.npmjs.org/
 
